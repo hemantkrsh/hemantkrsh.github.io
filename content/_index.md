@@ -4,4 +4,4 @@
 
 Hey there, I'm Hemant, a software engineer with a deep passion for databases, data infrastructure, and distributed systems. I currently work at [HPE](https://www.hpe.com/in/en/home.html) building resilient distributed systems. This blog is where I share my insights, deep-dives, and learnings.
 
-Find me on: [Github](<https://github.com/hemantkrsh>), [Linkedin](www.linkedin.com/in/hemant-singh21), [Twitter](https://x.com/Hemant2184)
+Find me on: <a href="https://github.com/hemantkrsh" target="_blank" rel="noopener noreferrer">Github</a>, <a href="https://www.linkedin.com/in/hemant-singh21" target="_blank" rel="noopener noreferrer">Linkedin</a>, <a href="https://x.com/Hemant2184" target="_blank" rel="noopener noreferrer">Twitter</a>
