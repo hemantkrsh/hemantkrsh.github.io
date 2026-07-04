@@ -2,18 +2,8 @@
 title: About
 ---
 
-**Maverick** is a minimalistic Hugo blogging theme. The theme is inspired from [Poole](https://getpoole.com) and [Listed](https://github.com/ronv/listed)
+I am a software engineer in the data and distributed systems space. I currently work as a Principal Engineer at [HPE](https://www.hpe.com/in/en/home.html), at the intersection of time-series, distributed systems, and databases.
 
-### Features
+Previously, I worked at Meesho, building their data platform. Before that, I worked on data platforms and distributed systems for ingesting and processing data, and on analytics platforms for a range of use cases.
 
-- Minimalistic, clean and simple design
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Tags
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Ultra fast
-- Github comment
+I am currently learning Rust. I am also very interested in how databases and data infrastructure will evolve to serve agent workloads, as agents become the primary users of data systems and the workload patterns shift compared to the pre-agentic era.
